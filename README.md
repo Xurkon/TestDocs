@@ -1,7 +1,7 @@
 
 # API Documentation
 
-This repository contains auto-generated API documentation for Project Ebonhold (WoW 3.3.5) addons.
+World of Warcraft 3.3.5a API documentation for Blizzard, Project Ascension, Project Ebonhold and addons used within.
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-green)](https://xurkon.github.io/TestDocs/)
 
